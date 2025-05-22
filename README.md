@@ -42,7 +42,7 @@ Apri un terminale o prompt dei comandi e spostati nella cartella del progetto.
 
 Esegui come Amministratore (Consigliato per la Pulizia):
 
-Fai doppio clic sul file avvia_pulitore_admin.bat.
+Fai doppio clic sul file Admin_Launcher.bat.
 
 Questo script richiederà i privilegi di amministratore per garantire che l'applicazione possa accedere e pulire tutte le cartelle temporanee (specialmente C:\Windows\Temp).
 
@@ -60,7 +60,7 @@ Clicca su "Pulisci File Temporanei" per eliminare i file. Ti verrà chiesta una 
 (Sostituisci il link sopra con uno screenshot reale della tua applicazione!)
 
 ## ⚠️ Note Importanti
-Esegui come Amministratore: Per una pulizia efficace, specialmente della cartella C:\Windows\Temp e per evitare errori di accesso negato, è fondamentale eseguire l'applicazione tramite il file avvia_pulitore_admin.bat o comunque con privilegi elevati.
+Esegui come Amministratore: Per una pulizia efficace, specialmente della cartella C:\Windows\Temp e per evitare errori di accesso negato, è fondamentale eseguire l'applicazione tramite il file Admin_Launcher.bat o comunque con privilegi elevati.
 
 File in Uso: Alcuni file temporanei potrebbero essere attualmente in uso dal sistema o da altre applicazioni. Questi file non potranno essere eliminati e verranno segnalati come "falliti" o "saltati" durante il processo di pulizia. Questo è un comportamento normale.
 
